@@ -1,7 +1,6 @@
-### Hello world.
-My name is Chris MacAdam. He/Him.
+### My name is Chris MacAdam. He/Him.
 
-Hobby game developer currently learning software development.
+Software and Game developer.
 
 Contact me: <macadamchris@gmail.com>
 
