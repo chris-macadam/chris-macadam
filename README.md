@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello world.
+My name is Chris MacAdam. He/Him.
+
+Hobby game developer currently learning software development.
+
+Contact me: <macadamchris@gmail.com>
 
 <!--
 **chris-macadam/chris-macadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
